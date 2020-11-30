@@ -1,5 +1,6 @@
-# Problem Set #2
-## Closures, Prototypes, and Constructors
+# Problem Set 4-4
+
+## Closures, Prototypes, Constructors, and Classes
 
 1. What is a closure?
 
