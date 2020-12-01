@@ -1,8 +1,8 @@
 {
-  "name": "problem-set-2",
+  "name": "problem-set-inheritance",
   "version": "1.0.0",
-  "description": "Prototypal inheritance problem set",
-  "main": "solutions.js",
+  "description": "inheritance problem set",
+  "main": "exercises.js",
   "scripts": {
     "test": "jest"
   },
