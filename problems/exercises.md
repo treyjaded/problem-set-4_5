@@ -12,7 +12,7 @@
       quad.getPerimeter(); // 21
       ```
 
-2. A rectangle is a special type of quadrilateral. Rectangles have four 90 degree angles and, thus, have two pairs of congruent sides. Create a `Rectangle` constructor with an _is-a_/inheritance relationship with your `Quadrilateral` constructor. `Rectangle`s should be initialized with two arguments, as rectangles can be described by their `length` and `width`. In addition to an inherited `getPerimeter` method, `Rectangle`s should have a `getArea` method, that returns the area of the `Rectangle` object.
+2. A rectangle is a special type of quadrilateral. Rectangles have four 90 degree angles and, thus, have two pairs of congruent sides. Create a `Rectangle` class with an _is-a_/inheritance relationship with your `Quadrilateral` constructor. `Rectangle`s should be initialized with two arguments, as rectangles can be described by their `length` and `width`. In addition to an inherited `getPerimeter` method, `Rectangle`s should have a `getArea` method, that returns the area of the `Rectangle` object.
       ```javascript
       const rect = new Rectangle(30, 40);
       rect.side1;          // 30
