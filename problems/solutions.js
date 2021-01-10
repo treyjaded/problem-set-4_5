@@ -3,11 +3,11 @@ class Quadrilateral {
 
 }
 
-class Rectangle extends Quadrilateral{
+class Rectangle Quadrilateral{
 
 }
 
-class Square extends Rectangle{
+class Square Rectangle{
 
 }
 
