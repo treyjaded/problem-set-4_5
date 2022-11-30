@@ -1,5 +1,5 @@
 # Problem Set 4-5
-## Inheritance
+## Inheritance and OO Design
 
 ### Short Response Section
 Answer short response questions directly in the `short-response.md` file. Answer questions in 2 - 3 sentences. Be sure to format your responses appropriately.
