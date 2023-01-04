@@ -1,6 +1,6 @@
 # Problem Set 4-5
 
-## Classes and Inheritence 
+## Classes and Inheritance 
 
 **1. What is inheritance in programming?**
 
