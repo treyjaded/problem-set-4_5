@@ -62,10 +62,35 @@ class Square extends Rectangle {
  console.log(sq.getDiagonal()); // 7.0710678
  
 class Person {
-  constructor(){
-    
+  constructor(name, age, height,income) {
+    this.name = name
+    this.age = age
+    this.height = height
+    this.income = income
   }
 
+  greet() {
+    console.log(`Hi, my name is ${this.name} and I am ${this.age} years old.`)
+  }
+
+  compareHeight() {
+    if (this.height >= 6) {
+      return `I am tall because I'm ${this.height} feet tall!`
+    }
+    else if (this.height >= 5.6 && this.height < 6) {
+      return `I am average height because I'm ${this.height} feet tall!`
+    }
+    else if (this.height < 5.6) {
+      return `I am shorter than average height because I'm ${this.height} feet tall!`
+    }
+
+  }
+  
+  myIncome(newIncome){
+    this.income = newIncome
+    return `My income is ${ this.income}.`
+  }
+  
 }
 
 module.exports = {
